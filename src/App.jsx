@@ -565,7 +565,19 @@ export default function App() {
           </section>
         </main>
 
-        <footer style={{ marginTop: 18, textAlign: "center", color: "#27413f" }}>Made with ❤️ — CODALENS</footer>
+        <footer style={{ marginTop: 18, textAlign: "center", color: "#27413f" }}>
+  Made with ❤️ by&nbsp;
+  <a 
+    href="https://github.com/YourGitHubUsername" // Replace 'YourGitHubUsername' with Shubham's actual GitHub username
+    target="_blank" 
+    rel="noopener noreferrer" 
+    style={{ color: "#27413f", textDecoration: "underline", fontWeight: "bold" }}
+  >
+    Shubham
+  </a> 
+  &nbsp;- CODALENS
+</footer>
+		
       </div>
 
       <style>{`
