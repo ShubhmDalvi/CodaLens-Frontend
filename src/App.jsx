@@ -568,7 +568,7 @@ export default function App() {
         <footer style={{ marginTop: 18, textAlign: "center", color: "#27413f" }}>
   Made with ❤️ by&nbsp;
   <a 
-    href="https://github.com/YourGitHubUsername" // Replace 'YourGitHubUsername' with Shubham's actual GitHub username
+    href="https://github.com/shubhmdalvi" // Replace 'YourGitHubUsername' with Shubham's actual GitHub username
     target="_blank" 
     rel="noopener noreferrer" 
     style={{ color: "#27413f", textDecoration: "underline", fontWeight: "bold" }}
